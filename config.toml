@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Taylor Shelton"
-  role = "Assistant Professor of Geography and GIS"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -62,10 +62,10 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "taylor.shelton@msstate.edu"
-  address = "108 Hilbun Hall, Mississippi State University, Mississippi State, MS"
+  email = ""
+  address = ""
   office_hours = ""
-  phone = "1 (662) 325-0419"
+  phone = ""
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -302,10 +302,7 @@ enableGitInfo = false
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
