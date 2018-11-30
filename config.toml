@@ -13,7 +13,7 @@ title = "Taylor Shelton, PhD"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = ""
+copyright = "&copy; 2018"
 
 theme = "academic"
 enableEmoji = true
@@ -52,20 +52,20 @@ enableGitInfo = false
 
   # Your details.
   name = "Taylor Shelton"
-  role = "Assistant Professor"
+  role = "Assistant Professor of Geography and GIS"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Department of Geosciences", url = "https://www.geosciences.msstate.edu/" }, { name = "Mississippi State University", url = "https://www.msstate.edu/" } ]
+  organizations = [ { name = "Mississippi State University", url = "https://www.geosciences.msstate.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = ""
-  address = ""
+  email = "taylor.shelton@msstate.edu"
+  address = "108 Hilbun Hall, Mississippi State University, Mississippi State, MS"
   office_hours = ""
-  phone = ""
+  phone = "1 (662) 325-0419"
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -167,7 +167,7 @@ enableGitInfo = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = false
+  sharing = true
 
   # Privacy pack
   #   Show a cookie consent message to visitors
@@ -253,7 +253,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:taylor.shelton@msstate.edu"  # For a direct email link, use "mailto:test@example.org".
+    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
@@ -265,14 +265,17 @@ enableGitInfo = false
     icon_pack = "ai"
     link = "https://scholar.google.com/citations?user=WFA1Ry8AAAAJ&hl=en"
 
-
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fab"
+    link = ""
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]
-  icon = "cv"
-  icon_pack = "ai"
-  link = "files/cv.pdf"
+  #   icon = "cv"
+  #   icon_pack = "ai"
+  #   link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -302,15 +305,17 @@ enableGitInfo = false
   url = "#projects"
   weight = 4
 
-[[menu.main]]	
-  name = "Contact"	
-  url = "#contact"	
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
   weight = 6
 
-[[menu.main]]
-    name = "CV"
-    url = "files/cv.pdf"
-    weight = 7
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[menu.main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 7
 
 # Search.
 [params.search]
