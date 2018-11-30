@@ -13,7 +13,7 @@ title = "Taylor Shelton, PhD"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = ""
 
 theme = "academic"
 enableEmoji = true
@@ -56,7 +56,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Mississippi State University", url = "https://www.geosciences.msstate.edu/" } ]
+  organizations = [ { name = "Department of Geosciences", url = "https://www.geosciences.msstate.edu/" }, { name = "Mississippi State University", url = "https://www.msstate.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -167,7 +167,7 @@ enableGitInfo = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Privacy pack
   #   Show a cookie consent message to visitors
