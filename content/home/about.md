@@ -19,17 +19,17 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Geography"
+  course = "Ph.D., Geography"
   institution = "Clark University"
   year = 2015
 
 [[education.courses]]
-  course = "M.A. in Geography"
+  course = "M.A., Geography"
   institution = "University of Kentucky"
   year = 2011
 
 [[education.courses]]
-  course = "B.A. in Geography and Political Science"
+  course = "B.A., Geography and Political Science"
   institution = "University of Kentucky"
   year = 2008
  
