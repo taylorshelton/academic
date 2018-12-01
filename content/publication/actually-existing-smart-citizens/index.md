@@ -1,7 +1,7 @@
 +++
 title = "Actually existing smart citizens: expertise and (non) participation in the making of the smart city"
 date = 2018-12-01T00:00:00
-draft = true
+draft = false
 
 # Authors.
 authors = ["Taylor Shelton","Thomas Lodato"]
