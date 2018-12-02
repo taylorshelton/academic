@@ -18,7 +18,7 @@ authors = ["Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Big Data & Society 4(1)" 1-14"
+publication = "Big Data & Society 4(1): 1-14"
 publication_short = "Big Data & Society"
 
 # Abstract and optional shortened version.
