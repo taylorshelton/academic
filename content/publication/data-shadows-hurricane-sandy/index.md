@@ -18,8 +18,8 @@ authors = ["Taylor Shelton","Ate Poorthuis","Mark Graham","Matthew Zook"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Geoforum 52: 167-179"
-publication_short = "Geoforum"
+publication = "_Geoforum_ 52: 167-179"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Digital social data are now practically ubiquitous, with increasingly large and interconnected databases leading researchers, politicians, and the private sector to focus on how such ‘big data’ can allow potentially unprecedented insights into our world. This paper investigates Twitter activity in the wake of Hurricane Sandy in order to demonstrate the complex relationship between the material world and its digital representations. Through documenting the various spatial patterns of Sandy-related tweeting both within the New York metropolitan region and across the United States, we make a series of broader conceptual and methodological interventions into the nascent geographic literature on big data. Rather than focus on how these massive databases are causing necessary and irreversible shifts in the ways that knowledge is produced, we instead find it more productive to ask how small subsets of big data, especially georeferenced social media information scraped from the internet, can reveal the geographies of a range of social processes and practices. Utilizing both qualitative and quantitative methods, we can uncover broad spatial patterns within this data, as well as understand how this data reflects the lived experiences of the people creating it. We also seek to fill a conceptual lacuna in studies of user-generated geographic information, which have often avoided any explicit theorizing of sociospatial relations, by employing Jessop et al.’s TPSN framework. Through these interventions, we demonstrate that any analysis of user-generated geographic information must take into account the existence of more complex spatialities than the relatively simple spatial ontology implied by latitude and longitude coordinates."
