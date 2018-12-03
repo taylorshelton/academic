@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "_City_, forthcoming"
-publication_short = "_City_"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "In response to the mounting criticism of emerging ‘smart cities’ strategies around the world, a number of individuals and institutions have attempted to pivot from discussions of smart cities towards a focus on ‘smart citizens’. While the smart citizen is most often seen as a kind of foil for those more stereotypically top-down, neoliberal, and repressive visions of the smart city that have been widely critiqued within the literature, this paper argues for an attention to the ‘actually existing smart citizen’, which plays a much messier and more ambivalent role in practice. This paper proposes the dual figures of ‘the general citizen’and ‘the absent citizen’as a heuristic for thinking about how the lines of inclusion and exclusion are drawn for citizens, both discursively and materially, in the actual making of the smart city. These figures are meant to highlight how the universal and unspecified figure of ‘the citizen’is discursively deployed to justify smart city policies, while at the same time, actual citizens remain largely excluded from such decision and policy-making processes. Using a case study of Atlanta, Georgia and its ongoing smart cities initiatives, we argue that while the participation of citizens is crucial to any truly democratic mode of urban governance, the emerging discourse around the promise of smart citizenship fails to capture the realities of how citizens are actually discussed and enrolled in the making of these policies."
