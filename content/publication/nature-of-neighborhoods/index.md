@@ -18,8 +18,8 @@ authors = ["Taylor Shelton","Ate Poorthuis"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Annals of the American Association of Geographers, forthcoming"
-publication_short = "Annals of the American Association of Geographers"
+publication = "_Annals of the American Association of Geographers_, forthcoming"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Neighborhoods have long held a central place in the analysis and planning of urban spaces. Despite this centrality, the exact definition of a neighborhood, as well as how and where to draw its boundaries, has remained unclear. And while these questions have generated significant academic debate, they have arguably little effect on people’s everyday lives or decision-making processes. Atlanta, Georgia represents a different case, however, because of the city’s system of ‘neighborhood planning units’(NPU), which has shaped the city’s planning and political processes since the mid-1970s. But despite significant changes within the city’s intra-urban geography since the 1970s, the geography of the NPU system has remained largely unchanged. As such, this paper attempts to harness the potentials of big data to rethink the nature and geographies of Atlanta’s neighborhoods. Drawing on archival documents, historic maps of the city’s neighborhoods and new sources of big data, this paper explores the evolution of Atlanta’s neighborhoods from the 1960s up to the present day. In particular, our analysis highlights the fundamentally fuzzy, fluid and relational nature of neighborhoods, both in the ways neighborhoods are defined by political and administrative entities and through the everyday lives of residents. Ultimately, this work calls into question the idea of the neighborhood as a natural, pre-existing, discrete and static spatial unit, and points to the utility of using new sources of data and analytical techniques for revealing this underlying relationality."
