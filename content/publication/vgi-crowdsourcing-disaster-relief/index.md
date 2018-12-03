@@ -18,8 +18,8 @@ authors = ["Matthew Zook","Mark Graham","Taylor Shelton","Sean Gorman"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "World Medical and Health Policy 2(2): 7-33"
-publication_short = "World Medical and Health Policy"
+publication = "_World Medical and Health Policy_ 2(2): 7-33"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "This paper outlines the ways in which information technologies (ITs) were used in the Haiti relief effort, especially with respect to web‐based mapping services. Although there were numerous ways in which this took place, this paper focuses on four in particular: CrisisCamp Haiti, OpenStreetMap, Ushahidi, and GeoCommons. This analysis demonstrates that ITs were a key means through which individuals could make a tangible difference in the work of relief and aid agencies without actually being physically present in Haiti. While not without problems, this effort nevertheless represents a remarkable example of the power and crowdsourced online mapping and the potential for new avenues of interaction between physically distant places that vary tremendously."
