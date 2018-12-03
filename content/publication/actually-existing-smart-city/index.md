@@ -1,6 +1,6 @@
 +++
 title = "The ‘actually existing smart city’"
-date = 2015-02-213T00:00:00
+date = 2015-02-13T00:00:00
 draft = false
 
 # Authors.
