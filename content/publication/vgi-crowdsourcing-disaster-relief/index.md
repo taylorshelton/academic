@@ -18,7 +18,7 @@ authors = ["Matthew Zook","Mark Graham","Taylor Shelton","Sean Gorman"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "World Medical and Health Policy 2(2):7-33"
+publication = "World Medical and Health Policy 2(2): 7-33"
 publication_short = "World Medical and Health Policy"
 
 # Abstract and optional shortened version.
