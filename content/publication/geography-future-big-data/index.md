@@ -18,8 +18,8 @@ authors = ["Mark Graham","Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Dialogues in Human Geography 3(3): 255-261"
-publication_short = "Dialogues in Human Geography"
+publication = "_Dialogues in Human Geography_ 3(3): 255-261"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "As digital social data have become increasingly ubiquitous, many have turned their attention to harnessing these massive data sets in order to produce purportedly more accurate and complete understandings of social processes. This intervention addresses the relationships between geography and big data and their intertwined futures. We focus on the impacts of an age of big data on the discipline of geography and geographic thought and methodology, as well as how geography might provide a useful lens through which to understand big data as a social phenomenon in its own right. Ultimately, we see significant potential in big data, but remain skeptical of the prevalent discourses around it, as they tend to obscure, more than reveal, the complexity of social and spatial processes."
