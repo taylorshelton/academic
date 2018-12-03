@@ -9,11 +9,13 @@ subtitle = ""
 
 # Order that this section will appear in.
 weight = 60
+
 +++
 
-At Mississippi State University, I teach the following classes:
-GR8313 Advanced Cultural Geography
-GR4990 Digital Geographies
-GR4203 Geography of North America
-GR4123 Urban Geography
-GR2013 Cultural Geography
+I teach the following courses at Mississippi State University
+
+- GR8313 Advanced Cultural Geography
+- GR4990 Digital Geographies
+- GR4203 Geography of North America
+- GR4123 Urban Geography
+- GR2013 Cultural Geography
