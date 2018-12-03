@@ -18,8 +18,8 @@ authors = ["Taylor Shelton","Matthew Zook","Mark Graham"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "The Professional Geographer 64(4): 602-617"
-publication_short = "The Professional Geographer"
+publication = "_The Professional Geographer_ 64(4): 602-617"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "This article combines geographical studies of both the Internet and religion in an analysis of where and how a variety of religious practices are represented in geotagged Web content. This method provides needed insight into the geography of virtual expressions of religion and highlights the mutually constitutive, and at times contradictory, relationship between the virtual and material dimensions of religious expression. By using the spatialities of religious practice and contestation as an example, this article argues that mappings of virtual representations of material practices are important tools for understanding how online activities simultaneously represent and reproduce the material world."
