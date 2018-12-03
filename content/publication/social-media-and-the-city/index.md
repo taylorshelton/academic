@@ -22,7 +22,7 @@ publication = "Landscape and Urban Planning 142: 198-211"
 publication_short = "Landscape and Urban Planning"
 
 # Abstract and optional shortened version.
-abstract = "This paper grounds the critique of the ‘smart city’ in its historical and geographical context. Adapting Brenner and Theodore’s notion of ‘actually existing neoliberalism’, we suggest a greater attention be paid to the ‘actually existing smart city’, rather than the exceptional or paradigmatic smart cities of Songdo, Masdar and Living PlanIT Valley. Through a closer analysis of cases in Louisville and Philadelphia, we demonstrate the utility of understanding the material effects of these policies in actual cities around the world, with a particular focus on how and from where these policies have arisen, and how they have unevenly impacted the places that have adopted them."
+abstract = "Big data is increasingly seen as a way of providing a more ‘scientific’ approach to the understanding and management of cities. But most geographic analyses of geotagged social media data have failed to mobilize a sufficiently complex understanding of socio-spatial relations. By combining the conceptual approach of relational socio-spatial theory with the methods of critical GIScience, this paper explores the spatial imaginaries and processes of segregation and mobility at play in the notion of the ‘9th Street Divide’ in Louisville, Kentucky. Through a more context-sensitive analysis of this data, this paper argues against this popular spatial imaginary and the notion that the Louisville's West End is somehow separate and apart from the rest of the city. By analyzing the everyday activity spaces of different groups of Louisvillians through geotagged Twitter data, we instead argue for an understanding of these neighborhoods as fluid, porous and actively produced, rather than as rigid, static or fixed. Ultimately, this paper is meant to provide a conceptual and methodological framework for the analysis of social media data that is more attentive to the multiplicity of socio-spatial relations embodied in such data."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -56,7 +56,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1093/cjres/rsu026"
+doi = "10.1016/j.landurbplan.2015.02.020"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
