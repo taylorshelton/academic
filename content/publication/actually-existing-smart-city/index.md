@@ -18,8 +18,8 @@ authors = ["Taylor Shelton","Matthew Zook","Alan Wiig"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Cambridge Journal of Regions, Economy and Society 8(1): 13-25"
-publication_short = "Cambridge Journal of Regions, Economy and Society"
+publication = "_Cambridge Journal of Regions, Economy and Society_ 8(1): 13-25"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "This paper grounds the critique of the ‘smart city’ in its historical and geographical context. Adapting Brenner and Theodore’s notion of ‘actually existing neoliberalism’, we suggest a greater attention be paid to the ‘actually existing smart city’, rather than the exceptional or paradigmatic smart cities of Songdo, Masdar and Living PlanIT Valley. Through a closer analysis of cases in Louisville and Philadelphia, we demonstrate the utility of understanding the material effects of these policies in actual cities around the world, with a particular focus on how and from where these policies have arisen, and how they have unevenly impacted the places that have adopted them."
