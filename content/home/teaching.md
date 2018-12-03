@@ -1,3 +1,4 @@
++++
 # Teaching widget.
 widget = "teaching"
 active = true
