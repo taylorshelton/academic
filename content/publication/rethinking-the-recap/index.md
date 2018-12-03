@@ -18,8 +18,8 @@ authors = ["Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Urban Geography 39(7): 1070-1091"
-publication_short = "Urban Geography"
+publication = "_Urban Geography_ 39(7): 1070-1091"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "The idea of concentrated poverty has long held a prominent place in understandings of racial and class inequality in American cities. While the spatial concentration of the poor is undoubtedly an important aspect of this story, concentrated poverty research suffers from a number of conceptual and methodological shortcomings. Through a case study of concentrated poverty and affluence in Lexington, Kentucky, this paper draws on relational socio-spatial theory and critical GIS in order to offer a constructive critique of conventional concentrated poverty research. The paper demonstrates that while concentrated poverty and affluence are both on the rise in recent years, concentrated affluence actually represents a more widespread problem within the city. At the same time, the paper visualizes how these processes are fundamentally interconnected and co-produced through property ownership, where the extraction of rents from areas of concentrated poverty works to simultaneously produce areas of concentrated affluence elsewhere in the city."
