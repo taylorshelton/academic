@@ -18,8 +18,8 @@ authors = ["Jim Thatcher","Luke Bergmann","Britta Ricker","Reuben Rose-Redwood",
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Environment and Planning A 48(5): 815-824"
-publication_short = "Environment and Planning A"
+publication = "_Environment and Planning A_ 48(5): 815-824"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "From late afternoon, 17 October 2014, until early on the 20th, 30 researchers met at the University of Washington’s Friday Harbor Laboratories to revisit the spirit of ‘critical GIS’ in approaching questions both emerging and enduring around the intersection of the spatial and the digital. While the 1993 gathering at Friday Harbor, like much early work in critical GIS, can be read as ‘peace talks’ brokered between warring factions, with wary GIScientists and cautious Human Geographers on opposite sides of the table (Schuurman, 2000), more than a decade into the 21st-century, our meeting drew an open field of scholar-practitioners bursting with questions, varied experiences, and profound concerns."
