@@ -56,7 +56,7 @@ url_source = ""
 url_custom = [{name = "URL", url = "https://uk.sagepub.com/en-gb/eur/digital-geographies/book258271"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.31235/osf.io/6jy49"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
