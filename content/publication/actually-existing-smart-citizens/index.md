@@ -1,6 +1,6 @@
 +++
 title = "Actually existing smart citizens: expertise and (non) participation in the making of the smart city"
-date = 2018-12-01T00:00:00
+date = 2018-12-02T00:00:00
 draft = false
 
 # Authors.
