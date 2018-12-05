@@ -18,7 +18,7 @@ authors = ["Taylor Shelton","Matthew Zook"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "_International Encyclopedia of the Social and Behavioral Sciences (2nd Edition)_, pp. 90-94"
+publication = "_International Encyclopedia of the Social and Behavioral Sciences (2nd edition)_, pp. 90-94"
 publication_short = ""
 
 # Abstract and optional shortened version.
