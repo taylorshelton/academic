@@ -18,7 +18,7 @@ authors = ["Taylor Shelton","Jennifer Clark"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Metropolitics_"
+publication = "_Metropolitics/Metropolitiques_"
 publication_short = ""
 
 # Abstract and optional shortened version.
