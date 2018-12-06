@@ -22,7 +22,7 @@ publication = "_Handbook of Urban Geography_, forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "As more and more aspects of contemporary urban society are tracked and quantified, the emerging cloud of so-called ‘big data’ is widely considered to represent a fundamental change in the way we interact with and understand cities. This chapter attempts to demonstrate the potential of big data for urban geographic research by exploring how these data sources and methods might be usefully applied to the persistent question of gentrification. While we argue that big data is unlikely to be a panacea for empirical studies of gentrification, or for any particular urban issue of interest, we do believe that big data can contribute to our understandings by supplementing existing data sources and providing a richer understanding of the multiple social and spatial processes that characterize the process of gentrification, its constituent parts, causes and effects."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
