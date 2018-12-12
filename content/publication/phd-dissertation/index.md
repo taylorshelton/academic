@@ -53,7 +53,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "URL", url = "https://search.proquest.com/openview/d4886ed5a32f62dab2f8e519db107272/1?pq-origsite=gscholar&cbl=18750&diss=y"}]
+# url_custom = [{name = "URL", url = "https://search.proquest.com/openview/d4886ed5a32f62dab2f8e519db107272/1?pq-origsite=gscholar&cbl=18750&diss=y"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
