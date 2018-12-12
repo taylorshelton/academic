@@ -53,7 +53,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "URL", url = "https://uknowledge.uky.edu/gradschool_theses/103/"}]
+# url_custom = [{name = "URL", url = "https://uknowledge.uky.edu/gradschool_theses/103/"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
