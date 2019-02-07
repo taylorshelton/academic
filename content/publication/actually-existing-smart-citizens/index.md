@@ -1,6 +1,6 @@
 +++
 title = "Actually existing smart citizens: expertise and (non) participation in the making of the smart city"
-date = 2018-12-02T00:00:00
+date = 2019-02-05T00:00:00
 draft = false
 
 # Authors.
@@ -56,7 +56,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.17605/OSF.IO/GP5VY"
+doi = "10.1080/13604813.2019.1575115"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
