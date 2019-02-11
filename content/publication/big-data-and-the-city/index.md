@@ -53,7 +53,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "URL", url = ""}]
+ url_custom = [{name = "URL", url = "https://www.e-elgar.com/shop/handbook-of-urban-geography"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
