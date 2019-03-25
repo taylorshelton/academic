@@ -1,6 +1,6 @@
 +++
 title = "Actually existing smart citizens: expertise and (non) participation in the making of the smart city"
-date = 2019-02-05T00:00:00
+date = 2019-03-25T00:00:00
 draft = false
 
 # Authors.
@@ -18,7 +18,7 @@ authors = ["Taylor Shelton","Thomas Lodato"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_City_, forthcoming"
+publication = "_City_ 23(1): 32-53"
 publication_short = ""
 
 # Abstract and optional shortened version.
