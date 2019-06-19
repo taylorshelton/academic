@@ -1,6 +1,6 @@
 +++
 title = "Big Data and the City"
-date = 2018-12-01T00:00:00
+date = 2019-06-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Matthew Zook","Taylor Shelton","Ate Poorthuis"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "_Handbook of Urban Geography_, forthcoming"
+publication = "_Handbook of Urban Geography_,  pp. 63-75"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -56,7 +56,7 @@ url_source = ""
  url_custom = [{name = "URL", url = "https://www.e-elgar.com/shop/handbook-of-urban-geography"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.4337/9781785364600.00013"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
