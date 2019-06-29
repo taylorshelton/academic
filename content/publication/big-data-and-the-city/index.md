@@ -1,6 +1,6 @@
 +++
 title = "Big Data and the City"
-date = 2019-06-01T00:00:00
+date = 2019-06-28T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
