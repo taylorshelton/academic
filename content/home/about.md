@@ -38,7 +38,6 @@ weight = 5
 
 # About
 
-I am an Assistant Professor in the Department of Geosciences at Mississippi State University. Prior to joining MSU in 2017, I held appointments as a visiting scholar in the Department of Geography at the University of Kentucky and as a postdoctoral fellow in the Center for Urban Innovation at the Georgia Institute of Technology. I earned my BA and MA degrees in geography from the University of Kentucky and my PhD from the Graduate School of Geography at Clark University.
+My name is Taylor Shelton and I am an Assistant Professor in the Department of Geosciences at Mississippi State University. I am a broadly-trained human geographer interested in how urban spaces and social inequalities are represented, reproduced and contested through data. In particular, my work focuses on using mapping and data visualization as a means to understanding (and challenging) urban socio-spatial inequalities, especially in relation to issues of housing and property ownership. 
 
-I am a broadly-trained human geographer working at the intersection of digital geographies, critical GIS and urban geography. My research focuses on how urban spaces and social inequalities are represented, reproduced and contested through data. In particular, I am interested in how data can be used to produce alternative understandings of urban socio-spatial inequalities that challenge the stigmatization of certain people and places. 
- 
+Prior to coming to Mississippi State in 2017, I held appointments as a visiting scholar in the Department of Geography at the University of Kentucky and as a postdoctoral fellow in the Center for Urban Innovation at the Georgia Institute of Technology. I earned my BA and MA degrees in geography from the University of Kentucky and my PhD from the Graduate School of Geography at Clark University.
