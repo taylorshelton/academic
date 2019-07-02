@@ -12,9 +12,9 @@ weight = 5
   interests = [
     "Urban geography",
     "Digital geographies",
-    "Critical cartography/GIS",
+    "Critical GIS",
     "Socio-spatial inequality",
-    "Land, housing and property",
+    "Housing",
     "Geographic thought and methodology"
   ]
 
