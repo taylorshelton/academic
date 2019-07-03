@@ -14,7 +14,6 @@ weight = 5
     "Digital geographies",
     "Critical GIS",
     "Socio-spatial inequality",
-    "Housing",
     "Geographic thought and methodology"
   ]
 
