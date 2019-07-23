@@ -17,19 +17,20 @@ weight = 70
 
 I currently serve as advisor to a number of graduate and undergraduate students in the Department of Geosciences. My graduate students’ work generally focuses on combining human geography and GIS in order to understand (and challenge) social and spatial inequalities. 
 
-Current Students:
+__Current Students:__
 
 Mustafa Monk. M.S. student in Geoscience (Geography), 2018 - present
-Topic: Critical GIS analysis of governmental flood risk mapping in Houston, Texas
+_Topic:_ Critical GIS analysis of governmental flood risk mapping in Houston, Texas
 
 Hannah Mizell. B.S. student in Geoscience (GIS and Environmental Geoscience), 2019 - present
-Topic: Natural disasters and geographies of racial segregation in American cities
+_Topic:_ Natural disasters and geographies of racial segregation in American cities
 
 Asger Ali. Ph.D. student in Earth and Atmospheric Sciences, 2019 - present 
-Topic: TBD
+_Topic:_ TBD
 
 Patricia Hernandez. Ph.D. student in Earth and Atmospheric Sciences, 2019 - present 
-Topic: TBD
+_Topic:_ TBD
 
-Prospective Students:
+__Prospective Students:__
+
 I am always looking for bright, motivated students to work with me here at Mississippi State and help us to build our programs in human geography and GIS. If you’re interested in working with me on these (or related) topics, do send me an email with your CV/resume, a brief statement describing your interests, and a sample of your written/cartographic work.
