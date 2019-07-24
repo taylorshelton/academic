@@ -19,13 +19,13 @@ I currently serve as advisor to a number of graduate and undergraduate students 
 
 __Current Students:__
 
-> Mustafa Monk  
-> M.S. student in Geoscience (Geography), 2018 - present  
-> _Topic:_ Critical GIS analysis of governmental flood risk mapping in Houston, Texas
+Mustafa Monk  
+M.S. student in Geoscience (Geography), 2018 - present  
+_Topic:_ Critical GIS analysis of governmental flood risk mapping in Houston, Texas
 
-> Hannah Mizell  
-> B.S. student in Geoscience (GIS and Environmental Geoscience), 2019 - present  
-> _Topic:_ Natural disasters and geographies of racial segregation in American cities
+Hannah Mizell  
+B.S. student in Geoscience (GIS and Environmental Geoscience), 2019 - present  
+_Topic:_ Natural disasters and geographies of racial segregation in American cities
 
 Asger Ali  
 Ph.D. student in Earth and Atmospheric Sciences, 2019 - present  
