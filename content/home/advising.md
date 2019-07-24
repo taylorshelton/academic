@@ -37,4 +37,4 @@ _Topic:_ TBD
 
 __Prospective Students:__
 
-I am always looking for bright, motivated students to work with me here at Mississippi State and help us to build our programs in human geography and GIS. If you’re interested in working with me on these (or related) topics, do send me an email with your CV/resume, a brief statement describing your interests, and a sample of your written/cartographic work.
+I am always looking for bright, motivated students to work with me here at Mississippi State and help us to build our programs in human geography and GIS. If you’re interested in working with me on these (or related) topics, please email me with your CV/resume, a brief statement describing your interests, and a sample of your written/cartographic work.
