@@ -1,6 +1,6 @@
 +++
 title = "The nature of neighborhoods: using big data to rethink the geographies of Atlanta’s Neighborhood Planning Unit system"
-date = 2019-05-14T01:00:00
+date = 2019-07-24T01:00:00
 draft = false
 
 # Authors.
