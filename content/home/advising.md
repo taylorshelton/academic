@@ -29,11 +29,7 @@ _Topic:_ Natural disasters and geographies of racial segregation in American cit
 
 Asger Ali  
 Ph.D. student in Earth and Atmospheric Sciences, 2019 - present  
-_Topic:_ TBD
-
-Patricia Hernandez  
-Ph.D. student in Earth and Atmospheric Sciences, 2019 - present  
-_Topic:_ TBD
+_Topic:_ Natural disasters and social inequality
 
 __Prospective Students:__
 
