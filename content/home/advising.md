@@ -25,7 +25,7 @@ _Topic:_ Critical GIS analysis of governmental flood risk mapping in Houston, Te
 
 Hannah Mizell  
 B.S. student in Geoscience (GIS and Environmental Geoscience), 2019 - present  
-_Topic:_ Natural disasters and geographies of racial segregation in American cities
+_Topic:_ Post-disaster housing speculation in Houston, Texas 
 
 Asger Ali  
 Ph.D. student in Earth and Atmospheric Sciences, 2019 - present  
