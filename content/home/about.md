@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Urban geography",
     "Digital geographies",
     "Critical GIS",
+    "Urban geography",
     "Socio-spatial inequality",
     "Geographic thought and methodology"
   ]
