@@ -17,8 +17,9 @@ weight = 60
 
 I teach the following courses at Mississippi State University:
 
-- GR8313 Advanced Cultural Geography
-- GR4990 Digital Geographies
-- GR4203 Geography of North America
-- GR4123 Urban Geography
-- GR2013 Cultural Geography
+- GR8313 Advanced Human Geography
+- GR4990/6990 Digital Geographies
+- GR4990/6990 Urban Environments
+- GR4203/6203 Geography of North America
+- GR4123/6123 Urban Geography
+- GR2013 Human Geography
