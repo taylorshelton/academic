@@ -31,7 +31,7 @@ Asger Ali
 Ph.D. student in Earth and Atmospheric Sciences, 2019 - present  
 _Topic:_ Natural disasters and social inequality
 
-Nick Chastain
+Nick Chastain  
 M.S. student in Geoscience (Geospatial Sciences), 2020 - present  
 _Topic:_ Transportation justice
 
