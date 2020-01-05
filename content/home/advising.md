@@ -31,6 +31,10 @@ Asger Ali
 Ph.D. student in Earth and Atmospheric Sciences, 2019 - present  
 _Topic:_ Natural disasters and social inequality
 
+Nick Chastain 
+M.S. student in Geoscience (Geospatial Sciences), 2020 - present  
+_Topic:_ Transportation justice
+
 __Prospective Students:__
 
 I am always looking for bright, motivated students to work with me here at Mississippi State and help us to build our programs in human geography and GIS. If you’re interested in working with me on these (or related) topics, please email me with your CV/resume, a brief statement describing your interests, and a sample of your written/cartographic work.
