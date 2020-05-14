@@ -15,26 +15,16 @@ weight = 70
 
 +++
 
-I currently serve as advisor to a number of graduate and undergraduate students in the Department of Geosciences. My graduate students’ work generally focuses on combining human geography and GIS in order to understand (and challenge) social and spatial inequalities. 
-
-__Current Students:__
-
-Mustafa Monk  
-M.S. student in Geoscience (Geography), 2018 - present  
-_Topic:_ Critical GIS analysis of governmental flood risk mapping in Houston, Texas
-
-Hannah Mizell  
-B.S. student in Geoscience (GIS and Environmental Geoscience), 2019 - present  
-_Topic:_ Post-disaster housing speculation in Houston, Texas 
-
-Asger Ali  
-Ph.D. student in Earth and Atmospheric Sciences, 2019 - present  
-_Topic:_ Natural disasters and social inequality
-
-Nick Chastain  
-M.S. student in Geoscience (Geospatial Sciences), 2020 - present  
-_Topic:_ Transportation justice
-
 __Prospective Students:__
 
-I am always looking for bright, motivated students to work with me here at Mississippi State and help us to build our programs in human geography and GIS. If you’re interested in working with me on these (or related) topics, please email me with your CV/resume, a brief statement describing your interests, and a sample of your written/cartographic work.
+I am currently recruiting two M.S. students for fully-funded assistantships to work under my supervision here at the Department of Geosciences at Georgia State, beginning in either the Spring or Fall of 2021. One assistantship is a full-time research assistantship, while the other is split evenly between a research and teaching assistantship. I am particularly interested in recruiting students who wish to work across the boundaries of critical human geography and GIS, using mapping as a way of thinking about and addressing urban social inequalities. If you’re interested in working with me on these (or related) topics, please email me with your CV/resume, a brief statement describing your interests, and a sample of your written/cartographic work.
+
+__Past Students:__
+
+Mustafa Monk  
+M.S. in Geoscience (Geography), graduated 2020  
+_Thesis:_ Evaluating the unequal impacts of Hurricane Harvey: Critical GIS analysis in systems of governmental risk assessment and mitigation in Houston, Texas
+
+Hannah Mizell  
+B.S. in Geoscience (GIS and Environmental Geoscience), graduated 2020  
+_Topic:_ Post-disaster housing speculation in Houston, Texas
