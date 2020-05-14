@@ -36,9 +36,6 @@ weight = 5
 +++
 
 # About
+My name is Taylor Shelton and I am an Assistant Professor in the Department of Geosciences at Georgia State University. Working at the intersection of critical human geography and geographic information science, I study how urban spaces and social inequalities are represented, reproduced and contested through maps and data. In particular, my work focuses on using mapping and data visualization to develop alternative understandings of urban inequalities, especially in relation to issues of housing speculation, property ownership and neighborhood segregation.
 
-My name is Taylor Shelton and I am an Assistant Professor in the Department of Geosciences at Mississippi State University. Broadly-trained as a human geographer, my work combines critical socio-spatial theory and GIS in order to understand — and challenge — urban inequalities. In particular, my work focuses on how mapping and data visualization can be used to develop alternative understandings of urban social and spatial processes, especially as it relates to issues of housing speculation, property ownership and neighborhood segregation.
-
-Prior to joining Mississippi State in 2017, I held appointments as a visiting scholar in the Department of Geography at the University of Kentucky and as a postdoctoral fellow in the Center for Urban Innovation at the Georgia Institute of Technology. I earned my BA and MA degrees in geography from the University of Kentucky and my PhD from the Graduate School of Geography at Clark University.
-
-As of August 2020, I will be joining the Department of Geosciences at Georgia State University as an Assistant Professor.
+Prior to joining Georgia State in 2020, I held appointments at Mississippi State University, the University of Kentucky and the Georgia Institute of Technology. Before that, I earned BA and MA degrees in geography from the University of Kentucky and my PhD from the Graduate School of Geography at Clark University.
