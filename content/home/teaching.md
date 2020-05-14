@@ -15,7 +15,11 @@ weight = 60
 
 +++
 
-I teach the following courses at Mississippi State University:
+At Georgia State, I’ll be teaching the following courses:
+
+- GEOG4518 / GEOS6518 Digital Cartography
+
+In my previous position at Mississippi State University, I was responsible for teaching the following courses:
 
 - GR8313 Advanced Human Geography
 - GR4990/6990 Digital Geographies
