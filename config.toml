@@ -52,17 +52,17 @@ enableGitInfo = false
 
   # Your details.
   name = "Taylor Shelton"
-  role = "Assistant Professor of Geography and GIS"
+  role = "Assistant Professor of Geography"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Department of Geosciences", url = "https://www.geosciences.msstate.edu/" },{ name = "Mississippi State University", url = "https://www.msstate.edu/" } ]
+  organizations = [ { name = "Department of Geosciences", url = "https://www.geosciences.gsu.edu/" },{ name = "Georgia State University", url = "https://www.gsu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "taylor.shelton@msstate.edu"
+  email = "johntaylorshelton@gmail.com"
   address = ""
   office_hours = ""
   phone = ""
