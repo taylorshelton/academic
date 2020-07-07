@@ -15,8 +15,10 @@ weight = 60
 
 +++
 
-At Georgia State, I’ll be teaching the following courses:
+At Georgia State, I’ll be teaching the following courses in the coming year:
 
+- GEOS8030 Seminar in Cartography: Critical Mappings
+- GEOG4774 / GEOS6774 Contemporary Urban Theory and Issues
 - GEOG4518 / GEOS6518 Digital Cartography
 
 In my previous position at Mississippi State University, I was responsible for teaching the following courses:
