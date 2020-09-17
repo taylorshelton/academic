@@ -18,7 +18,7 @@ authors = ["Taylor Shelton","Matthew Zook","Alan Wiig"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Cambridge Journal of Regions, Economy and Society_ 8(1): 13-25"
+publication = "_Cambridge Journal of Regions, Economy and Society_ 8 (1): 13-25"
 publication_short = ""
 
 # Abstract and optional shortened version.
