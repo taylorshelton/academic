@@ -18,7 +18,7 @@ authors = ["Taylor Shelton","Matthew Zook","Mark Graham"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_The Professional Geographer_ 64(4): 602-617"
+publication = "_The Professional Geographer_ 64 (4): 602-617"
 publication_short = ""
 
 # Abstract and optional shortened version.
