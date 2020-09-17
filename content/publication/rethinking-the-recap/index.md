@@ -18,7 +18,7 @@ authors = ["Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Urban Geography_ 39(7): 1070-1091"
+publication = "_Urban Geography_ 39 (7): 1070-1091"
 publication_short = ""
 
 # Abstract and optional shortened version.
