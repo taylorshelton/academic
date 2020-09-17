@@ -18,7 +18,7 @@ authors = ["Jeremy W. Crampton","Mark Graham","Ate Poorthuis","Taylor Shelton","
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Cartography and Geographic Information Science_ 40(2): 130-139"
+publication = "_Cartography and Geographic Information Science_ 40 (2): 130-139"
 publication_short = ""
 
 # Abstract and optional shortened version.
