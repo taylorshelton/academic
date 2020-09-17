@@ -18,7 +18,7 @@ authors = ["Taylor Shelton","Thomas Lodato"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_City_ 23(1): 35-52"
+publication = "_City_ 23 (1): 35-52"
 publication_short = ""
 
 # Abstract and optional shortened version.
