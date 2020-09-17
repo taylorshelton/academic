@@ -18,7 +18,7 @@ authors = ["Mark Graham","Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Dialogues in Human Geography_ 3(3): 255-261"
+publication = "_Dialogues in Human Geography_ 3 (3): 255-261"
 publication_short = ""
 
 # Abstract and optional shortened version.
