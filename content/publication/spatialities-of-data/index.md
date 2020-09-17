@@ -18,7 +18,7 @@ authors = ["Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_GeoJournal_ 82(4): 721-734"
+publication = "_GeoJournal_ 82 (4): 721-734"
 publication_short = ""
 
 # Abstract and optional shortened version.
