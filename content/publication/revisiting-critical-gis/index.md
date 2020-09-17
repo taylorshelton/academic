@@ -18,7 +18,7 @@ authors = ["Jim Thatcher","Luke Bergmann","Britta Ricker","Reuben Rose-Redwood",
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Environment and Planning A_ 48(5): 815-824"
+publication = "_Environment and Planning A_ 48 (5): 815-824"
 publication_short = ""
 
 # Abstract and optional shortened version.
