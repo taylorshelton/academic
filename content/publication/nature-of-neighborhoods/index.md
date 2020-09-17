@@ -18,7 +18,7 @@ authors = ["Taylor Shelton","Ate Poorthuis"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Annals of the American Association of Geographers_ 109(5): 1341-1361"
+publication = "_Annals of the American Association of Geographers_ 109 (5): 1341-1361"
 publication_short = ""
 
 # Abstract and optional shortened version.
