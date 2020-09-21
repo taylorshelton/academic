@@ -1,8 +1,8 @@
 ---
 date: "2019-04-01T00:00:00Z"
 external_link: ""
-image:
-  focal_point:
+image: "featured.png"
+  focal_point: smart
   caption:
 links:
 slides: 
