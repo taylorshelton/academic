@@ -11,7 +11,7 @@ draft = true
 summary = "Mapping the geographies of housing injustice and inequality"
 
 # Optional image to display on homepage.
-image_preview = "image-captioning.jpg"
+image_preview = "mapping-housing-injustice.png"
 
 # Optional external URL for project (replaces project detail page).
 # external_link = ""
