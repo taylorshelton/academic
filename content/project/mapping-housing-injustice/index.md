@@ -1,7 +1,7 @@
 +++
 title = "Mapping Housing Injustice"
 date = 2017-01-01
-draft = false
+draft = true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
