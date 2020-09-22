@@ -1,7 +1,7 @@
 +++
 title = "Mapping Housing Injustice"
 date = 2017-01-01
-draft = true
+draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -14,7 +14,7 @@ summary = "Mapping the geographies of housing injustice and inequality"
 image_preview = "image-captioning.jpg"
 
 # Optional external URL for project (replaces project detail page).
-# external_link = "https://github.com/hubert0527/Image_caption"
+# external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
