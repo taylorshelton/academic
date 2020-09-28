@@ -17,7 +17,7 @@ weight = 70
 
 __Prospective Students:__
 
-I am currently recruiting two M.S. students for fully-funded assistantships to work under my supervision here at the Department of Geosciences at Georgia State, beginning in either the Spring or Fall of 2021. One assistantship is a full-time research assistantship, while the other is split evenly between a research and teaching assistantship. I am particularly interested in recruiting students who wish to work across the boundaries of critical human geography and GIS, using mapping as a way of thinking about and addressing urban social and environmental inequalities. If you’re interested in working with me on these (or related) topics, please email me with your CV/resume, a brief statement describing your interests, and a sample of your written/cartographic work.
+I am always interested in speaking with prospective graduate students for our program at GSU Geosciences. I am particularly interested in working with students who wish to work across the boundaries of critical human geography and GIS, using mapping as a way of thinking about and addressing urban social and environmental inequalities. While students entering our M.S. program are not expected to be experts in both of these areas, it is important that prospective students have some prior experience and familiarity with one or both of them. If you’re interested in working with me on these (or related) topics, please email me with your CV/resume, a brief statement describing your interests, and a sample of your written/cartographic work.
 
 __Past Students:__
 
