@@ -18,7 +18,7 @@ authors = ["Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Big Data & Society_, forthcoming"
+publication = "_Big Data & Society_ 7 (2): 1-6"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -56,7 +56,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1177/2053951720965612"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
