@@ -4,7 +4,7 @@ date = 2020-10-07T00:00:00
 draft = false
 
 # Authors.
-authors = ["Jerry Shannon","Katherine Hankins","Taylor Shelton","Amber Bosse","Dorris Scott","Daniel Block","Heather Fischer","LaToya Eaves","Jin-Kyu Jung","Jonnell Robinson","Patricia Solis","Hamil Pearsall","Amanda Rees","Aileen Nicolas"]
+authors = ["Jerry Shannon","Katherine B. Hankins","Taylor Shelton","Amber J. Bosse","Dorris Scott","Daniel Block","Heather Fischer","LaToya E. Eaves","Jin-Kyu Jung","Jonnell Robinson","Patricia Solis","Hamil Pearsall","Amanda Rees","Aileen Nicolas"]
 
 # Publication type.
 # Legend:
