@@ -17,7 +17,7 @@ weight = 70
 
 __Prospective Students:__
 
-I am always interested in speaking with prospective graduate students for our program at GSU Geosciences. I am particularly interested in working with students who wish to work across the boundaries of critical human geography and GIS, using mapping as a way of thinking about and addressing urban social and environmental inequalities. While students entering our M.S. program are not expected to be experts in both of these areas, it is important that prospective students have some prior experience and familiarity with one or both of them. If you’re interested in working with me on these (or related) topics, please email me with your CV/resume, a brief statement describing your interests, and a sample of your written/cartographic work.
+I am always interested in speaking with prospective graduate students for our program at GSU Geosciences. I am particularly interested in working with students who wish to work across the boundaries of critical human geography and GIS, using mapping as a way of thinking about and addressing urban social and environmental inequalities. While students entering our M.S. program are certainly not expected to be experts in one or both of these areas coming in, it is important that prospective students have _some_ prior experience or familiarity with one or both of them. If you’re interested in working with me on these (or related) topics, please email me with your CV/resume, a brief statement describing your interests, and a sample of your written/cartographic work.
 
 __Past Students:__
 
