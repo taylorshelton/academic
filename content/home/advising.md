@@ -19,6 +19,12 @@ __Prospective Students:__
 
 I am always interested in speaking with prospective graduate students for our program at GSU Geosciences. I am particularly interested in working with students who wish to work across the boundaries of critical human geography and GIS, using mapping as a way of thinking about and addressing urban social and environmental inequalities. While students entering our M.S. program are certainly not expected to be experts in one or both of these areas coming in, it is important that prospective students have _some_ prior experience or familiarity with one or both of them. If you’re interested in working with me on these (or related) topics, please email me with your CV/resume, a brief statement describing your interests, and a sample of your written/cartographic work.
 
+__Current Students:__
+
+Carys Behnke
+M.S. in Geosciences (Geography), Georgia State University, 2021-present
+_Research Interests:_ Environmental justice, affordable housing, urban climate, sustainable development
+
 __Past Students:__
 
 Mustafa Monk  
@@ -27,4 +33,3 @@ _Thesis:_ Evaluating the unequal impacts of Hurricane Harvey: Critical GIS analy
 
 Hannah Mizell  
 B.S. in Geoscience (GIS and Environmental Geoscience), Mississippi State University, graduated 2020  
-_Topic:_ Post-disaster housing speculation in Houston, Texas
