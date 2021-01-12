@@ -15,9 +15,9 @@ weight = 60
 
 +++
 
-At Georgia State, I’ll be teaching the following courses in the coming year:
+At Georgia State, I’ll be teaching the following courses during the 2020-2021 academic year:
 
-- GEOG4518 / GEOS6518 Digital Cartography
+- GEOG4518/GEOS6518 Digital Cartography
 - GEOS8030 Seminar in Cartography: Critical Mappings
 
 In my previous position at Mississippi State University, I was responsible for teaching the following courses:
