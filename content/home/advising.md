@@ -23,12 +23,14 @@ __Current Students:__
 
 Carys Behnke
 <br>M.S. in Geosciences (Geography), Georgia State University, 2021-present
+<br>B.S./B.A. in Geography, University of Georgia, 2020
 <br>_Research Interests:_ Environmental justice, affordable housing, urban climate, sustainable development
 
 __Past Students:__
 
 Mustafa Monk  
-M.S. in Geoscience (Geography), Mississippi State University, graduated 2020  
+M.S. in Geoscience (Geography), Mississippi State University, graduated 2020
+B.A. in Geography, University of Texas-Austin, 2017
 _Thesis:_ Evaluating the unequal impacts of Hurricane Harvey: Critical GIS analysis in systems of governmental risk assessment and mitigation in Houston, Texas
 
 Hannah Mizell  
