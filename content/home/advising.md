@@ -21,7 +21,7 @@ I am always interested in speaking with prospective graduate students for our pr
 
 __Current Students:__
 
-Carys Behnke
+Carys Behnke  
 M.S. in Geosciences (Geography), Georgia State University, 2021-present   
 B.S./B.A. in Geography, University of Georgia, 2020  
 _Research Interests:_ Environmental justice, affordable housing, urban climate, sustainable development  
