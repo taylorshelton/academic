@@ -4,7 +4,7 @@ date = 2021-12-31T00:00:00
 draft = false
 
 # Authors.
-authors = ["Ate Poorthuis","Taylor Shelton","Matthew Zook",]
+authors = ["Ate Poorthuis","Taylor Shelton","Matthew Zook"]
 
 # Publication type.
 # Legend:
