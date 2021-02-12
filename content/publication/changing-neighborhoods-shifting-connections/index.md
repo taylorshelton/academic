@@ -1,6 +1,6 @@
 +++
 title = "Changing neighborhoods, shifting connections: mapping relational geographies of gentrification using social media data"
-date = 2021-12-31T00:00:00
+date = 2021-02-12T00:00:00
 draft = false
 
 # Authors.
@@ -22,7 +22,7 @@ publication = "_Urban Geography_, forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "The emergence of new sources of so-called ‘big data’ is regularly described as revolutionizing the study of urban life. Of particular interest is gentrification, which has been measured and mapped in fairly standard ways – even as its place in the broader public consciousness has grown rapidly. We argue that big data offers a new approach to the persistent problem of defining and measuring gentrification. Moreover, using big data also allows us to rethink broader questions about theory and methodological approaches in urban geography and GIScience. Using geotagged Twitter data as an indicator of social activity and connections, we demonstrate how the changing geographies of users’ tweets are proxies for the evolving social and spatial contours of urban neighborhoods. We use the case of Lexington, Kentucky and its gentrifying Northside to analyze the evolving mobilities and relational connections of neighborhood residents and visitors as gentrification intensified over time. We argue that these kinds of big data allow for an analytical approach that focuses on the dynamic, relational connections between people and places, and provides a useful, additional avenue in understanding a process as complex and multifaceted as gentrification."
+abstract = "New sources of ‘big data’ are regularly described as revolutionizing the study of urban life. Of particular interest is analyzing gentrification, which has proven a challenging endeavor with conventional methods. Big data may offer a new approach to the persistent problem of defining and measuring gentrification, while also allowing us to rethink broader questions about theory and methodology in urban geography. Using geotagged Twitter data, we demonstrate how the changing geographies of users’ tweets are proxies for the evolving social and spatial contours of urban neighborhoods. We use the case of Lexington, Kentucky to analyze the mobilities and relational connections of neighborhood residents and visitors as gentrification intensified over time. We argue that these kinds of big data allow for an analytical approach that focuses on the dynamic, relational connections between people and places, and provides a useful, additional avenue in understanding a process as complex and multifaceted as gentrification."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -42,7 +42,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://osf.io/preprints/socarxiv/eq6vm/"
 url_code = ""
 url_dataset = ""
 url_project = ""
