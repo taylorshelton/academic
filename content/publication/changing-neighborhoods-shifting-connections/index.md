@@ -1,6 +1,6 @@
 +++
 title = "Changing neighborhoods, shifting connections: mapping relational geographies of gentrification using social media data"
-date = 2021-02-12T00:00:00
+date = 2021-02-11T00:00:00
 draft = false
 
 # Authors.
