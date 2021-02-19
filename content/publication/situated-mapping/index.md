@@ -1,5 +1,5 @@
 +++
-title = "Changing neighborhoods, shifting connections: mapping relational geographies of gentrification using social media data"
+title = "Situated mapping: visualizing urban inequality between the god trick and strategic positivism"
 date = 2021-02-19T00:00:00
 draft = false
 
