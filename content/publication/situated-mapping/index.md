@@ -42,7 +42,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://osf.io/preprints/socarxiv/8zswy/"
 url_code = ""
 url_dataset = ""
 url_project = ""
