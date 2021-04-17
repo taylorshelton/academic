@@ -1,6 +1,6 @@
 +++
 title = "Gameday homes: mapping emerging geographies of housing speculation and absentee ownership in the American South"
-date = 2021-12-31T00:00:00
+date = 2021-04-17T00:00:00
 draft = false
 
 # Authors.
