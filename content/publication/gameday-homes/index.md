@@ -1,6 +1,6 @@
 +++
 title = "Gameday homes: mapping emerging geographies of housing speculation and absentee ownership in the American South"
-date = 2021-04-17T00:00:00
+date = 2021-04-28T00:00:00
 draft = false
 
 # Authors.
@@ -56,7 +56,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.cities.2021.103230"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
