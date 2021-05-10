@@ -15,12 +15,13 @@ weight = 60
 
 +++
 
-At Georgia State, I’ll be teaching the following courses during the 2020-2021 academic year:
+At Georgia State, I’m responsible for teaching the following courses:
 
+- GEOG2200 Mapping Our World: Introduction to Geospatial Technologies
 - GEOG4518/GEOS6518 Digital Cartography
 - GEOS8030 Seminar in Cartography: Critical Mappings
 
-In my previous position at Mississippi State University, I was responsible for teaching the following courses:
+In my previous position at Mississippi State University, I taught the following courses:
 
 - GR2013 Human Geography
 - GR4123/6123 Urban Geography
