@@ -31,6 +31,14 @@ M.S. in Geosciences (Geography), Georgia State University, 2021-present
 B.S. in Forestry, University of Tennessee, 2017  
 _Research Interests:_ Urban forestry, (critical) GIS, urban planning, urban sprawl, public access in shared urban spaces  
 
+Brandon North  
+M.S. in Geosciences (Geography), Georgia State University, 2021-present  
+B.S. in Geology, University of Georgia, 2013
+
+Alec Sparks  
+M.S. in Geosciences (Geography), Georgia State University, 2021-present  
+B.A. in Urban and Regional Studies, University of Michigan-Dearborn, 2018
+
 __Past Students:__
 
 Mustafa Monk  
