@@ -37,7 +37,8 @@ B.S. in Geology, University of Georgia, 2013
 
 Alec Sparks  
 M.S. in Geosciences (Geography), Georgia State University, 2021-present  
-B.A. in Urban and Regional Studies, University of Michigan-Dearborn, 2018
+B.A. in Urban and Regional Studies, University of Michigan-Dearborn, 2018  
+_Research Interests:_ Critical human geography, critical GIS, community-based research, housing, gentrification
 
 __Past Students:__
 
