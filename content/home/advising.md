@@ -33,7 +33,8 @@ _Research Interests:_ Urban forestry, (critical) GIS, urban planning, urban spra
 
 Brandon North  
 M.S. in Geosciences (Geography), Georgia State University, 2021-present  
-B.S. in Geology, University of Georgia, 2013
+B.S. in Geology, University of Georgia, 2013  
+_Research Interests:_ Automobile dependence, parking policies, environmental equity and sustainability, transit planning  
 
 Alec Sparks  
 M.S. in Geosciences (Geography), Georgia State University, 2021-present  
