@@ -1,6 +1,6 @@
 +++
 title = "Community Geography: Toward a Disciplinary Framework"
-date = 2021-10-01T00:00:00
+date = 2021-10-01 T00:00:00
 draft = false
 
 # Authors.
