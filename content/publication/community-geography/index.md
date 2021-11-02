@@ -1,7 +1,7 @@
 +++
 title = "Community Geography: Toward a Disciplinary Framework"
-date = 2021-10-01 T00:00:00
-draft = false
+date = 2021-10-01T00:00:00 
+draft = false 
 
 # Authors.
 authors = ["Jerry Shannon","Katherine B. Hankins","Taylor Shelton","Amber J. Bosse","Dorris Scott","Daniel Block","Heather Fischer","LaToya E. Eaves","Jin-Kyu Jung","Jonnell Robinson","Patricia Solis","Hamil Pearsall","Amanda Rees","Aileen Nicolas"]
@@ -18,7 +18,7 @@ authors = ["Jerry Shannon","Katherine B. Hankins","Taylor Shelton","Amber J. Bos
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Progress in Human Geography_ 45 (5): 1147-1168."
+publication = "_Progress in Human Geography_ 45 (5): 1147-1168"
 publication_short = ""
 
 # Abstract and optional shortened version.
