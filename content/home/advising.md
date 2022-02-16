@@ -31,6 +31,10 @@ M.S. in Geosciences (Geography), Georgia State University, 2021-present
 B.S. in Forestry, University of Tennessee, 2017  
 _Research Interests:_ Urban forestry, (critical) GIS, urban planning, urban sprawl, public access in shared urban spaces  
 
+Marissa Fallico  
+M.I.S. in Urban Studies, Georgia State University, 2020-present  
+B.A. in Environmental Studies, Northeastern University, 2019  
+
 Brandon North  
 M.S. in Geosciences (Geography), Georgia State University, 2021-present  
 B.S. in Geology, University of Georgia, 2013  
