@@ -18,7 +18,7 @@ authors = ["Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Urban Affairs Review_"
+publication = "_Urban Affairs Review_, forthcoming."
 publication_short = ""
 
 # Abstract and optional shortened version.
