@@ -45,7 +45,7 @@ M.S. in Geosciences (Geography), Georgia State University, 2021-present
 B.A. in Urban and Regional Studies, University of Michigan-Dearborn, 2018  
 _Research Interests:_ Critical human geography, critical GIS, community-based research, housing, gentrification
 
-Laurel Sparks
+Laurel Sparks  
 B.S. in Geosciences (Environmental Geosciences), Georgia State University, 2019-present
   
 __Past Students:__
