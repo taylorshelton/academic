@@ -1,5 +1,5 @@
 +++
-title = "‘Listen to the people of Starkville’: dynamics of (extra-)local political opposition to short-term rental regulation in a small southern city"
+title = ""Listen to the people of Starkville": dynamics of (extra-)local political opposition to short-term rental regulation in a small southern city"
 date = 2022-04-20T00:00:00
 draft = false
 
