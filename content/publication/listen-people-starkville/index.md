@@ -1,6 +1,6 @@
 +++
 title = "‘Listen to the people of Starkville’: dynamics of (extra-)local political opposition to short-term rental regulation in a small southern city"
-date = 2022-03-22T00:00:00
+date = 2022-04-20T00:00:00
 draft = false
 
 # Authors.
@@ -56,7 +56,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1177/10780874221095190"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
