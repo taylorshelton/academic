@@ -39,6 +39,7 @@ _Research Interests:_ Automobile dependence, parking policies, environmental equ
 Ryan Pardue  
 M.S. in Geosciences (Geography), Georgia State University, 2021-present  
 B.A. in Geography and Economics, University of Tennessee, 2019  
+_Research Interests:_ Critical mapping, financial inclusion, accessibility, equitable cities
 
 Alec Sparks  
 M.S. in Geosciences (Geography), Georgia State University, 2021-present  
