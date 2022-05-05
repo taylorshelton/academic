@@ -51,7 +51,7 @@ B.S. in Geosciences (Environmental Geosciences), Georgia State University, 2019-
 __Past Students:__
 
 Marissa Fallico  
-M.I.S. in Urban Studies, Georgia State University, 2022 
+M.I.S. in Urban Studies, Georgia State University, 2022  
 B.A. in Environmental Studies, Northeastern University, 2019  
 _Capstone:_ Examining the Financialization of Farmland in Frederick County, Maryland  
 
