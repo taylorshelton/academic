@@ -22,32 +22,27 @@ I am always interested in speaking with prospective graduate students for our pr
 __Current Students:__
 
 Carys Behnke  
-M.S. in Geosciences (Geography), Georgia State University, 2021-present   
+M.S. in Geography, Georgia State University, 2021-present   
 B.S./B.A. in Geography, University of Georgia, 2020  
 _Research Interests:_ Environmental justice, affordable housing, urban climate, sustainable development  
 
 Campbell Casseb  
-M.S. in Geosciences (Geography), Georgia State University, 2021-present  
+M.S. in Geography, Georgia State University, 2021-present  
 B.S. in Forestry, University of Tennessee, 2017  
 _Research Interests:_ Urban forestry, (critical) GIS, urban planning, urban sprawl, public access in shared urban spaces  
 
 Brandon North  
-M.S. in Geosciences (Geography), Georgia State University, 2021-present  
+M.S. in Geography, Georgia State University, 2021-present  
 B.S. in Geology, University of Georgia, 2013  
 _Research Interests:_ Automobile dependence, parking policies, environmental equity and sustainability, transit planning  
 
 Ryan Pardue  
-M.S. in Geosciences (Geography), Georgia State University, 2021-present  
+M.S. in Geography, Georgia State University, 2021-present  
 B.A. in Geography and Economics, University of Tennessee, 2019  
 _Research Interests:_ Critical mapping, financial inclusion, accessibility, equitable cities
 
-Alec Sparks  
-M.S. in Geosciences (Geography), Georgia State University, 2021-present  
-B.A. in Urban and Regional Studies, University of Michigan-Dearborn, 2018  
-_Research Interests:_ Critical human geography, critical GIS, community-based research, housing, gentrification
-
 Laurel Sparks  
-B.S. in Geosciences (Environmental Geosciences), Georgia State University, 2019-present
+B.S. in Environmental Geosciences, Georgia State University, 2019-present
   
 __Past Students:__
 
@@ -57,9 +52,9 @@ B.A. in Environmental Studies, Northeastern University, 2019
 _Capstone:_ Examining the Financialization of Farmland in Frederick County, Maryland  
 
 Mustafa Monk  
-M.S. in Geoscience (Geography), Mississippi State University, 2020  
+M.S. in Geography, Mississippi State University, 2020  
 B.A. in Geography, University of Texas-Austin, 2017  
 _Thesis:_ Evaluating the unequal impacts of Hurricane Harvey: Critical GIS analysis in systems of governmental risk assessment and mitigation in Houston, Texas
 
 Hannah Mizell  
-B.S. in Geoscience (GIS and Environmental Geoscience), Mississippi State University, 2020  
+B.S. in GIS and Environmental Geoscience, Mississippi State University, 2020  
