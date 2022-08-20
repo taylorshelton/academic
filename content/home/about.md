@@ -13,6 +13,7 @@ weight = 5
     "Critical cartography/GIS",
     "Digital geographies",
     "Urban geography",
+    "Housing, land and property",
     "Socio-spatial inequality",
     "Geographic thought and methodology"
   ]
