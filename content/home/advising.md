@@ -17,7 +17,13 @@ weight = 70
 
 __Prospective Students:__
 
-I am always interested in speaking with prospective graduate students for our program at GSU Geosciences. I am particularly interested in working with students who wish to work across the boundaries of critical human geography and GIS, using mapping as a way of thinking about and addressing urban social and environmental inequalities. If you’re interested in working with me on these (or related) topics, please email me with your CV/resume, a brief statement describing your interests, and a sample of your written/cartographic work.
+I am always interested in speaking with prospective graduate students for our master's program at GSU Geosciences. Students working under my supervision generally focus on using GIS methodologies to explore issues in the realm of critical human geography, especially urban social and environmental injustices. I am particularly interested in advising students who want to work on one or more of the following topics:
+
+- Critical, creative and community-based mapping
+- Housing, land and property ownership
+- Urban environmental justice in Atlanta
+
+If you’re interested in working with me on these (or closely related) topics, please email me with your CV/resume, a brief statement describing your interests, and a sample of your written and/or cartographic work.
 
 __Current Students:__
 
