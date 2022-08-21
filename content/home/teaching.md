@@ -15,17 +15,10 @@ weight = 60
 
 +++
 
-At Georgia State, I’m responsible for teaching the following courses:
+Over the course of my teaching career, I’ve taught a variety of undergraduate and graduate-level courses across both human geography and GIS. At Georgia State, I’ve been responsible for teaching the following courses:
 
 - GEOG2200 Mapping Our World: Introduction to Geospatial Technologies
 - GEOG4518/GEOS6518 Digital Cartography
 - GEOS8030 Seminar in Cartography: Critical Mappings
 
-In my previous position at Mississippi State University, I taught the following courses:
-
-- GR2013 Human Geography
-- GR4123/6123 Urban Geography
-- GR4203/6203 Geography of North America
-- GR4990/6990 Urban Environments
-- GR4990/6990 Digital Geographies
-- GR8313 Advanced Human Geography
+Starting in the Fall 2023 semester, I’ll also be teaching GEOS8006 Survey of Geographic Thought, a newly-required course for incoming graduate students in our geography MS program.
