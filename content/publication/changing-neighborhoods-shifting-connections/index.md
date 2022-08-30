@@ -18,7 +18,7 @@ authors = ["Ate Poorthuis","Taylor Shelton","Matthew Zook"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Urban Geography_ 43 (7): 960-983."
+publication = "_Urban Geography_ 43 (7): 960-983"
 publication_short = ""
 
 # Abstract and optional shortened version.
