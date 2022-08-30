@@ -1,6 +1,6 @@
 +++
 title = "Doing critical GIS"
-date = 2022-08-30T12:00:00
+date = 2022-08-30T08:00:00
 draft = false
 
 # Authors.
