@@ -18,7 +18,7 @@ authors = ["Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_ACME: An International Journal for Critical Geographies_ 21 (4): 346-356."
+publication = "_ACME: An International Journal for Critical Geographies_ 21 (4): 346-356"
 publication_short = ""
 
 # Abstract and optional shortened version.
