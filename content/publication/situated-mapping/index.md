@@ -1,6 +1,6 @@
 +++
 title = "Situated mapping: visualizing urban inequality between the god trick and strategic positivism"
-date = 2021-02-19T00:00:00
+date = 2022-08-30T08:00:00
 draft = false
 
 # Authors.
@@ -18,7 +18,7 @@ authors = ["Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_ACME: An International Journal for Critical Geographies_, forthcoming"
+publication = "_ACME: An International Journal for Critical Geographies_ 21 (4): 346-356."
 publication_short = ""
 
 # Abstract and optional shortened version.
