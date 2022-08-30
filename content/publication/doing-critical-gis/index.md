@@ -1,6 +1,6 @@
 +++
 title = "Doing critical GIS"
-date = 2022-08-08T00:00:00
+date = 2022-08-30T12:00:00
 draft = false
 
 # Authors.
@@ -18,7 +18,7 @@ authors = ["Dillon Mahmoudi","Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_ACME: An International Journal for Critical Geographies_, forthcoming"
+publication = "_ACME: An International Journal for Critical Geographies_ 21 (4): 327-335."
 publication_short = ""
 
 # Abstract and optional shortened version.
