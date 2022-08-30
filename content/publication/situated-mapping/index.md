@@ -1,6 +1,6 @@
 +++
 title = "Situated mapping: visualizing urban inequality between the god trick and strategic positivism"
-date = 2022-08-30T08:00:00
+date = 2022-08-30T08:30:00
 draft = false
 
 # Authors.
