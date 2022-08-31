@@ -1,6 +1,6 @@
 +++
 title = "Doing critical GIS"
-date = 2022-08-30T08:00:00
+date = 2022-08-31T08:00:00
 draft = false
 
 # Authors.
@@ -53,7 +53,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+ url_custom = [{name = "URL", url = "https://acme-journal.org/index.php/acme/article/view/2247"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
