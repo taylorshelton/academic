@@ -1,6 +1,6 @@
 +++
 title = "Situated mapping: visualizing urban inequality between the god trick and strategic positivism"
-date = 2022-08-30T08:30:00
+date = 2022-08-31T08:30:00
 draft = false
 
 # Authors.
@@ -42,7 +42,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://osf.io/preprints/socarxiv/8zswy/"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -53,7 +53,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "URL", url = "https://acme-journal.org/index.php/acme/article/view/1941"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
