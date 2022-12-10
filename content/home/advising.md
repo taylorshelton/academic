@@ -27,30 +27,22 @@ If you’re interested in working with me on these (or closely related) topics, 
 
 __Current Students:__
 
-Carys Behnke  
-M.S. in Geography, Georgia State University, 2021-present   
-B.S./B.A. in Geography, University of Georgia, 2020  
-_Research Interests:_ Environmental justice, affordable housing, urban climate, sustainable development  
-
-Campbell Casseb  
-M.S. in Geography, Georgia State University, 2021-present  
-B.S. in Forestry, University of Tennessee, 2017  
-_Research Interests:_ Urban forestry, (critical) GIS, urban planning, urban sprawl, public access in shared urban spaces  
-
-Brandon North  
-M.S. in Geography, Georgia State University, 2021-present  
-B.S. in Geology, University of Georgia, 2013  
-_Research Interests:_ Automobile dependence, parking policies, environmental equity and sustainability, transit planning  
-
 Ryan Pardue  
 M.S. in Geography, Georgia State University, 2021-present  
 B.A. in Geography and Economics, University of Tennessee, 2019  
 _Research Interests:_ Critical mapping, financial inclusion, accessibility, equitable cities
-
-Laurel Sparks  
-B.S. in Environmental Geosciences, Georgia State University, 2019-present
   
 __Past Students:__
+
+Carys Behnke  
+M.S. in Geography, Georgia State University, 2022  
+B.S./B.A. in Geography, University of Georgia, 2020  
+_Thesis:_ Blocking Out the Sun: Restricting Rooftop Solar in Atlanta, Georgia
+
+Campbell Casseb  
+M.S. in Geography, Georgia State University, 2022  
+B.S. in Forestry, University of Tennessee, 2017  
+_Capstone:_ Modern Extent and Impacts of Atlanta’s Suburban Forest Conversion into Primarily Residential Land Use 
 
 Marissa Fallico  
 M.I.S. in Urban Studies, Georgia State University, 2022  
@@ -64,3 +56,11 @@ _Thesis:_ Evaluating the unequal impacts of Hurricane Harvey: Critical GIS analy
 
 Hannah Mizell  
 B.S. in GIS and Environmental Geoscience, Mississippi State University, 2020  
+
+Brandon North  
+M.S. in Geography, Georgia State University, 2022
+B.S. in Geology, University of Georgia, 2013  
+_Capstone:_ The Cost of Green Infrastructure and the Price Residents Pay 
+
+Laurel Sparks  
+B.S. in Environmental Geosciences, Georgia State University, 2022
