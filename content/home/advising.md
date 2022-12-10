@@ -58,7 +58,7 @@ Hannah Mizell
 B.S. in GIS and Environmental Geoscience, Mississippi State University, 2020  
 
 Brandon North  
-M.S. in Geography, Georgia State University, 2022
+M.S. in Geography, Georgia State University, 2022  
 B.S. in Geology, University of Georgia, 2013  
 _Capstone:_ The Cost of Green Infrastructure and the Price Residents Pay 
 
