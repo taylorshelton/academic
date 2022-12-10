@@ -37,7 +37,7 @@ __Past Students:__
 Carys Behnke  
 M.S. in Geography, Georgia State University, 2022  
 B.S./B.A. in Geography, University of Georgia, 2020  
-_Thesis:_ Blocking Out the Sun: Restricting Rooftop Solar in Atlanta, Georgia
+_Thesis:_ Blocking Out the Sun: Restricting Rooftop Solar in Atlanta, Georgia
 
 Campbell Casseb  
 M.S. in Geography, Georgia State University, 2022  
