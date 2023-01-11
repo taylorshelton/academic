@@ -4,7 +4,7 @@ date = 2023-12-31T00:00:00
 draft = true
 
 # Authors.
-authors = [“Levi Van Sant”,”Taylor Shelton","Kelly Kay”]
+authors = ["Levi Van Sant","Taylor Shelton","Kelly Kay"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = [“Levi Van Sant”,”Taylor Shelton","Kelly Kay”]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = “_Geography Compass_, forthcoming”
+publication = "_Geography Compass_, forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
