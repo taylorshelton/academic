@@ -1,7 +1,7 @@
 +++
 title = "Connecting Country and City: The Multiple Geographies of Real Property Ownership in the US"
-date = 2023-12-31T00:00:00
-draft = true
+date = 2023-01-19T00:00:00
+draft = false
 
 # Authors.
 authors = ["Levi Van Sant","Taylor Shelton","Kelly Kay"]
