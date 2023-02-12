@@ -18,7 +18,7 @@ authors = ["Levi Van Sant","Taylor Shelton","Kelly Kay"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Geography Compass_, forthcoming"
+publication = "_Geography Compass_ 17 (2): 1-15"
 publication_short = ""
 
 # Abstract and optional shortened version.
