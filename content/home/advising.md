@@ -27,6 +27,10 @@ If you’re interested in working with me on these (or closely related) topics, 
 
 __Current Students:__
 
+Noé Calderon Castro  
+M.S. in Geography, Georgia State University, 2023-present  
+B.S. in Environmental Spatial Analysis, University of North Georgia, 2021  
+
 Tristan Jumeau  
 M.S. in Geography, Georgia State University, 2022-present  
 B.S. in Environmental Geosciences, Georgia State University, 2022  
