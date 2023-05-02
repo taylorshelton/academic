@@ -22,7 +22,7 @@ publication = "_New Labor Forum_, forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "The ownership of rental housing by private equity (PE) companies has been on the rise in the United States and abroad in recent decades. PE firms invest funds contributed by institu- tional and otherwise large investors, including pension and sovereign wealth funds. The typi- cal PE playbook is to take controlling interest in a business, restructure it to increase the appear- ance of improved financial performance, and resell for a substantial profit. PE operates in a variety of sectors, including healthcare, media, and retail, often to the long-term detriment of these businesses and their services. PE firms frequently take aggressive asset-stripping and cost-cutting measures, leading to lower quality services, while also raising costs for customers. Since the expansion of PE buyouts in the 1990s, there has been widespread documentation of the damages wrought by PE takeovers, from the elimination of local news coverage to declining care in nursing homes. Since the foreclosure crisis and the recession of the 2000s, these firms have begun taking a controlling interest in the ownership of rental housing, leading to widespread attention on the larger phenomena of corporate landlords."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
