@@ -1,6 +1,6 @@
 +++
 title = "Making The Cotton District (White): Urban Renewal, New Urbanism and the Construction of a Nostalgic Neo-Plantationist Pastiche"
-date = 2023-03-15T00:00:00
+date = 2023-05-22T00:00:00
 draft = false
 
 # Authors.
@@ -18,7 +18,7 @@ authors = ["Taylor Shelton","Brian Williams"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Annals of the American Association of Geographers_, forthcoming"
+publication = "_Annals of the American Association of Geographers_ 113 (5): 1153-1171"
 publication_short = ""
 
 # Abstract and optional shortened version.
