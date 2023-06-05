@@ -1,6 +1,6 @@
 +++
 title = "How Private Equity Landlords Prey on Working-Class Communities of Color"
-date = 2023-05-02T00:00:00
+date = 2023-06-05T00:00:00
 draft = false
 
 # Authors.
@@ -18,7 +18,7 @@ authors = ["Eric Seymour","Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_New Labor Forum_, forthcoming"
+publication = "_New Labor Forum_ 32 (2): 54-63"
 publication_short = ""
 
 # Abstract and optional shortened version.
