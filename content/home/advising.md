@@ -36,8 +36,8 @@ M.S. in Geography, Georgia State University, 2022-present
 B.S. in Environmental Geosciences, Georgia State University, 2022  
 
 Ryan Pardue  
-Ph.D. in Urban Studies, Georgia State University, 2023-present
-M.S. in Geography, Georgia State University, 2023 
+Ph.D. in Urban Studies, Georgia State University, 2023-present  
+M.S. in Geography, Georgia State University, 2023  
 B.A. in Geography and Economics, University of Tennessee, 2019  
 
 Mia Wood  
