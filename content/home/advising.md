@@ -40,6 +40,10 @@ Ph.D. in Urban Studies, Georgia State University, 2023-present
 M.S. in Geography, Georgia State University, 2023  
 B.A. in Geography and Economics, University of Tennessee, 2019  
 
+Alec Sparks  
+M.S. in Geography, Georgia State University, 2021-present  
+B.A. in Urban and Regional Studies, University of Michigan-Dearborn, 2018  
+
 Mia Wood  
 M.S. in Geography, Georgia State University, 2023-present  
 B.S. in Environmental Geosciences, Georgia State University, 2023  
