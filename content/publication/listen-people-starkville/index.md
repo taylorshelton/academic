@@ -1,6 +1,6 @@
 +++
 title = "'Listen to the people of Starkville': dynamics of (extra-)local political opposition to short-term rental regulation in a small southern city"
-date = 2022-04-20T00:00:00
+date = 2023-08-01T00:00:00
 draft = false
 
 # Authors.
@@ -18,7 +18,7 @@ authors = ["Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Urban Affairs Review_, forthcoming"
+publication = "_Urban Affairs Review_ 59 (5): 1131-1151"
 publication_short = ""
 
 # Abstract and optional shortened version.
