@@ -31,10 +31,6 @@ Noé Calderon Castro
 M.S. in Geography, Georgia State University, 2023-present  
 B.S. in Environmental Spatial Analysis, University of North Georgia, 2021  
 
-Tristan Jumeau  
-M.S. in Geography, Georgia State University, 2022-present  
-B.S. in Environmental Geosciences, Georgia State University, 2022  
-
 Ryan Pardue  
 Ph.D. in Urban Studies, Georgia State University, 2023-present  
 M.S. in Geography, Georgia State University, 2023  
@@ -65,6 +61,11 @@ M.I.S. in Urban Studies, Georgia State University, 2022
 B.A. in Environmental Studies, Northeastern University, 2019  
 _Capstone:_ Examining the Financialization of Farmland in Frederick County, Maryland  
 
+Tristan Jumeau  
+M.S. in Geography, Georgia State University, 2023
+B.S. in Environmental Geosciences, Georgia State University, 2022  
+_Capstone:_ Investigating the Distribution of Green Stormwater Infrastructure in Atlanta, Georgia  
+  
 Mustafa Monk  
 M.S. in Geography, Mississippi State University, 2020  
 B.A. in Geography, University of Texas-Austin, 2017  
