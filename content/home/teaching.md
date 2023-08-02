@@ -20,6 +20,5 @@ Over the course of my teaching career, I’ve taught a variety of undergraduate 
 - GEOG2200 Mapping Our World: Introduction to Geospatial Technologies
 - GEOG4518/GEOS6518 Digital Cartography
 - GEOG4095/GEOL4095/GEOS6095 Colloquium in Geosciences
+- GEOS8006 Survey of Geographic Thought
 - GEOS8030 Seminar in Cartography: Critical Mappings
-
-Starting in the Fall 2023 semester, I’ll also be teaching GEOS8006 Survey of Geographic Thought, a newly-required course for incoming graduate students in our geography MS program.
