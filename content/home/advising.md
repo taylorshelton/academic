@@ -62,7 +62,7 @@ B.A. in Environmental Studies, Northeastern University, 2019
 _Capstone:_ Examining the Financialization of Farmland in Frederick County, Maryland  
 
 Tristan Jumeau  
-M.S. in Geography, Georgia State University, 2023
+M.S. in Geography, Georgia State University, 2023  
 B.S. in Environmental Geosciences, Georgia State University, 2022  
 _Capstone:_ Investigating the Distribution of Green Stormwater Infrastructure in Atlanta, Georgia  
   
