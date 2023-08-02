@@ -66,13 +66,13 @@ M.S. in Geography, Georgia State University, 2023
 B.S. in Environmental Geosciences, Georgia State University, 2022  
 _Capstone:_ Investigating the Distribution of Green Stormwater Infrastructure in Atlanta, Georgia  
   
+Hannah Mizell  
+B.S. in GIS and Environmental Geoscience, Mississippi State University, 2020  
+  
 Mustafa Monk  
 M.S. in Geography, Mississippi State University, 2020  
 B.A. in Geography, University of Texas-Austin, 2017  
 _Thesis:_ Evaluating the unequal impacts of Hurricane Harvey: Critical GIS analysis in systems of governmental risk assessment and mitigation in Houston, Texas
-
-Hannah Mizell  
-B.S. in GIS and Environmental Geoscience, Mississippi State University, 2020  
 
 Brandon North  
 M.S. in Geography, Georgia State University, 2022  
