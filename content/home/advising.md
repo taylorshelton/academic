@@ -19,7 +19,7 @@ __Prospective Students:__
 
 I am always interested in speaking with prospective graduate students for our master's program at GSU Geosciences. Students working under my supervision generally focus on using GIS methodologies to explore issues in the realm of critical human geography, especially urban social and environmental injustices. I am particularly interested in advising students who want to work on one or more of the following topics:
 
-- Critical, creative and community-based mapping
+- Critical and community-based mapping
 - Housing, land and property ownership
 - Urban environmental justice in Atlanta
 
