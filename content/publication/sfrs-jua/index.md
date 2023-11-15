@@ -1,7 +1,7 @@
 +++
 title = "The metropolitan and neighborhood geographies of REIT- and private equity-owned single-family rentals"
-date = 2023-10-01T00:00:00
-draft = true
+date = 2023-11-15T00:00:00
+draft = false
 
 # Authors.
 authors = ["Eric Seymour","Taylor Shelton","Stephen Sherman","Joshua Akers"]
@@ -22,7 +22,7 @@ publication = "_Journal of Urban Affairs_, forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "After the U.S. foreclosure crisis, institutional investors purchased thou- sands of homes and converted them into rental properties. Past research links these entities to a number of negative outcomes, including rent increases and eviction filings. This paper examines a larger variety of investors, including private equity firms and contract sellers. Using a national dataset of real estate transactions from 2010 to mid-2017, we examine the inter- and intra-metropolitan geography of institutional investors. Consistent with prior research, we find that large publicly traded entities purchased homes in growing Sunbelt metros, yet some specific firms target weaker-market metros. Large, publicly traded firms have concentrated investment in higher-value neighborhoods with larger shares of white residents. In contrast, private equity firms and contract sellers tend to invest in relatively lower-value neighborhoods with larger shares of Black residents. Results suggest different potential implications for these diverse actors’ investments, from crowding out prospective homebuyers to racial targeting."
 selected = true
 
 # Projects (optional).
