@@ -1,7 +1,7 @@
 +++
 title = "Powered by gentrification: the uneven development of residential rooftop solar in Atlanta, Georgia"
-date = 2023-12-01T00:00:00
-draft = true
+date = 2023-12-14T00:00:00
+draft = false
 
 # Authors.
 authors = ["Carys Behnke","Taylor Shelton"]
@@ -18,7 +18,7 @@ authors = ["Carys Behnke","Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Energy Research & Social Science_, forthcoming"
+publication = "_Energy Research & Social Science_ 108: 1-13"
 publication_short = ""
 
 # Abstract and optional shortened version.
