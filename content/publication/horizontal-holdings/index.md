@@ -1,7 +1,7 @@
 +++
 title = "Horizontal holdings: untangling the networks of corporate landlords"
-date = 2023-10-01T00:00:00
-draft = true
+date = 2024-01-19T00:00:00
+draft = false
 
 # Authors.
 authors = ["Taylor Shelton","Eric Seymour"]
