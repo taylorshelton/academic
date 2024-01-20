@@ -11,7 +11,6 @@ weight = 5
 [interests]
   interests = [
     "Critical cartography/GIS",
-    "Digital geographies",
     "Urban geography",
     "Housing, land and property",
     "Socio-spatial inequality",
