@@ -17,7 +17,7 @@ weight = 70
 
 __Prospective Students:__
 
-I am always interested in speaking with prospective graduate students for our master's program at GSU Geosciences. Students working under my supervision generally focus on using GIS methodologies to explore issues in the realm of critical human geography, especially urban social and environmental injustices. I am particularly interested in advising students who want to work on one or more of the following topics:
+I am always interested in speaking with prospective graduate students for our master's program in geography at GSU Geosciences. Students working under my supervision generally focus on using GIS methodologies to explore issues in the realm of critical human geography, especially urban social and environmental injustices. I am particularly interested in advising students who want to work on one or more of the following topics:
 
 - Critical and community-based mapping
 - Housing, land and property ownership
@@ -25,12 +25,8 @@ I am always interested in speaking with prospective graduate students for our ma
 
 If you’re interested in working with me on these (or closely related) topics, please email me with your CV/resume, a brief statement describing your interests, and a sample of your written and/or cartographic work.
 
-__Current Students:__
-
-Noé Calderon Castro  
-M.S. in Geography, Georgia State University, 2023-present  
-B.S. in Environmental Spatial Analysis, University of North Georgia, 2021  
-
+__Current Students:__  
+  
 Ryan Pardue  
 Ph.D. in Urban Studies, Georgia State University, 2023-present  
 M.S. in Geography, Georgia State University, 2023  
@@ -50,7 +46,12 @@ Carys Behnke
 M.S. in Geography, Georgia State University, 2022  
 B.S./B.A. in Geography, University of Georgia, 2020  
 _Thesis:_ Blocking Out the Sun: Restricting Rooftop Solar in Atlanta, Georgia
-
+  
+Noé Calderon Castro  
+M.S. in Geography, Georgia State University, 2023-present  
+B.S. in Environmental Spatial Analysis, University of North Georgia, 2021  
+_Capstone:_ Global Seeds, Local Roots: International Investment in US Agricultural Land  
+  
 Campbell Casseb  
 M.S. in Geography, Georgia State University, 2022  
 B.S. in Forestry, University of Tennessee, 2017  
