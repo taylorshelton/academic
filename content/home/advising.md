@@ -48,7 +48,7 @@ B.S./B.A. in Geography, University of Georgia, 2020
 _Thesis:_ Blocking Out the Sun: Restricting Rooftop Solar in Atlanta, Georgia
   
 Noé Calderon Castro  
-M.S. in Geography, Georgia State University, 2023-present  
+M.S. in Geography, Georgia State University, 2024  
 B.S. in Environmental Spatial Analysis, University of North Georgia, 2021  
 _Capstone:_ Global Seeds, Local Roots: International Investment in US Agricultural Land  
   
