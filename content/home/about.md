@@ -36,7 +36,7 @@ weight = 5
 +++
 
 # About
-My name is Taylor Shelton and I am an Assistant Professor in the Department of Geosciences at Georgia State University. Broadly trained as a geographer, my work sits at the intersection of critical human geography and GIS. My research focuses on the variety of ways that urban spaces and social inequalities are represented, reproduced and contested through maps and data. 
+My name is Taylor Shelton and I am an Associate Professor in the Department of Geosciences at Georgia State University. Broadly trained as a geographer, my work sits at the intersection of critical human geography and GIS. My research focuses on the variety of ways that urban spaces and social inequalities are represented, reproduced and contested through maps and data. 
 
 I am particularly interested in using mapping to develop alternative understandings of urban social and environmental injustices, especially as it relates to issues of housing and property ownership. But rather than only identifying where social problems - like evictions, vacant properties or speculative investments by absentee corporations - are spatially concentrated, my work strives to map the relational geographies that connect those places where inequality is experienced to the places that produce and benefit from such inequalities. More recently, I have begun applying these same techniques to the city of Atlanta and its broader metropolitan region, as chronicled on my blog, **[Mapping Atlanta](https://mappingatlanta.org)**.
 
