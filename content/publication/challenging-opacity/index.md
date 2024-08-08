@@ -1,6 +1,6 @@
 +++
 title = "Challenging opacity, embracing fuzziness: geographical thought and praxis in a post-truth age"
-date = 2023-02-21T00:00:00
+date = 2024-08-08T00:00:00
 draft = false
 
 # Authors.
@@ -18,7 +18,7 @@ authors = ["Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Dialogues in Human Geography_, forthcoming"
+publication = "_Dialogues in Human Geography_ 14 (2): 352-356"
 publication_short = ""
 
 # Abstract and optional shortened version.
