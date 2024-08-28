@@ -29,7 +29,7 @@ __Current Students:__
   
 Lynesia Denson  
 M.S. in Geography, Georgia State University, 2024-present  
-B.S. in Public Policy, Georgia State University, 2018  
+B.S. in Public Policy, Georgia State University, 2017  
 
 Aaron Pacheco  
 B.S. in Environmental Geosciences, Georgia State University, 2021-present  
