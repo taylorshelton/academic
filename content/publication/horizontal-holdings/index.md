@@ -1,6 +1,6 @@
 +++
 title = "Horizontal holdings: untangling the networks of corporate landlords"
-date = 2024-01-19T00:00:00
+date = 2024-09-16T00:00:00
 draft = false
 
 # Authors.
@@ -18,7 +18,7 @@ authors = ["Taylor Shelton","Eric Seymour"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Annals of the American Association of Geographers_, forthcoming"
+publication = "_Annals of the American Association of Geographers_ 114 (8): 1819-1831"
 publication_short = ""
 
 # Abstract and optional shortened version.
