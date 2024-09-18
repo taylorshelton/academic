@@ -53,7 +53,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1177/0308518X241285282"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
