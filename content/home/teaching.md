@@ -21,4 +21,6 @@ Over the course of my teaching career, I’ve taught a variety of undergraduate 
 - GEOG4518/GEOS6518 Digital Cartography
 - GEOG4095/GEOL4095/GEOS6095 Colloquium in Geosciences
 - GEOS8006 Survey of Geographic Thought
-- GEOS8030 Seminar in Cartography: Critical Mappings
+- GEOS8030 Seminar in Cartography: Critical Mappings  
+  
+Starting in the Spring 2025 semester I'll also be responsible for teaching a new course, GEOG4533/GEOS6533 Community GIS, focused on taking the GIS skills students have learned in the classroom and putting them to good use out in the world by partnering with local Atlanta community-based organizations.
