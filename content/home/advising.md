@@ -44,7 +44,7 @@ Hazel Pepperman
 M.S. in Water Sciences, Georgia State University, 2024-present  
 B.S. in Environmental Geosciences, Georgia State University, 2024  
 
-Sophuth Phon
+Sophuth Phon  
 M.S. in Geography, Georgia State University, 2024-present  
 B.A. in Geography, SUNY Geneseo, 2024  
 
@@ -98,5 +98,5 @@ B.S. in Environmental Geosciences, Georgia State University, 2022
 
 Mia Wood  
 M.S. in Geography, Georgia State University, 2024  
-B.S. in Environmental Geosciences, Georgia State University, 2023
+B.S. in Environmental Geosciences, Georgia State University, 2023  
 _Thesis:_ TOD Trade-Offs: Transit-Oriented Development and Neighborhood Change in Atlanta
