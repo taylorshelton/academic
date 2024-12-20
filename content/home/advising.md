@@ -32,7 +32,8 @@ M.S. in Geography, Georgia State University, 2024-present
 B.S. in Public Policy, Georgia State University, 2017  
 
 Aaron Pacheco  
-B.S. in Environmental Geosciences, Georgia State University, 2021-present  
+M.S. in Geography, Georgia State University, 2025-present  
+B.S. in Environmental Geosciences, Georgia State University, 2024
 
 Ryan Pardue  
 Ph.D. in Urban Studies, Georgia State University, 2023-present  
@@ -43,13 +44,14 @@ Hazel Pepperman
 M.S. in Water Sciences, Georgia State University, 2024-present  
 B.S. in Environmental Geosciences, Georgia State University, 2024  
 
+Sophuth Phon
+M.S. in Geography, Georgia State University, 2024-present  
+B.A. in Geography, SUNY Geneseo, 2024  
+
 Alec Sparks  
 M.S. in Geography, Georgia State University, 2021-present  
 B.A. in Urban and Regional Studies, University of Michigan-Dearborn, 2018  
-
-Mia Wood  
-M.S. in Geography, Georgia State University, 2023-present  
-B.S. in Environmental Geosciences, Georgia State University, 2023  
+  
 
 __Past Students:__
 
@@ -93,3 +95,8 @@ _Capstone:_ The Cost of Green Infrastructure and the Price Residents Pay
 
 Laurel Sparks  
 B.S. in Environmental Geosciences, Georgia State University, 2022
+
+Mia Wood  
+M.S. in Geography, Georgia State University, 2024  
+B.S. in Environmental Geosciences, Georgia State University, 2023
+_Thesis:_ TOD Trade-Offs: Transit-Oriented Development and Neighborhood Change in Atlanta
