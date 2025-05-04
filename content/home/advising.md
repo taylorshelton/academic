@@ -47,10 +47,6 @@ B.S. in Environmental Geosciences, Georgia State University, 2024
 Sophuth Phon  
 M.S. in Geography, Georgia State University, 2024-present  
 B.A. in Geography, SUNY Geneseo, 2024  
-
-Alec Sparks  
-M.S. in Geography, Georgia State University, 2021-present  
-B.A. in Urban and Regional Studies, University of Michigan-Dearborn, 2018  
   
 
 __Past Students:__
@@ -92,6 +88,12 @@ Brandon North
 M.S. in Geography, Georgia State University, 2022  
 B.S. in Geology, University of Georgia, 2013  
 _Capstone:_ The Cost of Green Infrastructure and the Price Residents Pay 
+
+
+Alec Sparks  
+M.S. in Geography, Georgia State University, 2021-present  
+B.A. in Urban and Regional Studies, University of Michigan-Dearborn, 2018  
+_Thesis:_ Brave New Detroit: Housing Geographies of Speculative Investment in a Right-Sizing City
 
 Laurel Sparks  
 B.S. in Environmental Geosciences, Georgia State University, 2022
