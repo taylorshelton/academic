@@ -91,7 +91,7 @@ _Capstone:_ The Cost of Green Infrastructure and the Price Residents Pay
 
 
 Alec Sparks  
-M.S. in Geography, Georgia State University, 2025 
+M.S. in Geography, Georgia State University, 2025  
 B.A. in Urban and Regional Studies, University of Michigan-Dearborn, 2018  
 _Thesis:_ Brave New Detroit: Housing Geographies of Speculative Investment in a Right-Sizing City
 
