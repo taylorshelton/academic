@@ -18,7 +18,7 @@ authors = ["Ryan Pardue","Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Environment and Planning A: Economy and Space_ 57 (2-3): 325-345
+publication = "_Environment and Planning A: Economy and Space_ 57 (2-3): 325-345"
 publication_short = ""
 
 # Abstract and optional shortened version.
