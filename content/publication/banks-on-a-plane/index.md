@@ -1,6 +1,6 @@
 +++
 title = "Banks on a plane: The possibilities and limits of spatial accessibility measures for understanding geographies of financial exclusion"
-date = 2025-05-19T00:00:00
+date = 2025-05-18T00:00:00
 draft = false
 
 # Authors.
