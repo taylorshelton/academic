@@ -1,6 +1,6 @@
 +++
 title = "Banks on a plane: The possibilities and limits of spatial accessibility measures for understanding geographies of financial exclusion"
-date = 2024-10-19T00:00:00
+date = 2025-05-19T00:00:00
 draft = false
 
 # Authors.
@@ -18,7 +18,7 @@ authors = ["Ryan Pardue","Taylor Shelton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Environment and Planning A: Economy and Space_, forthcoming"
+publication = "_Environment and Planning A: Economy and Space_ 57 (2-3): 325-345
 publication_short = ""
 
 # Abstract and optional shortened version.
