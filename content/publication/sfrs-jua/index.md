@@ -1,6 +1,6 @@
 +++
 title = "The metropolitan and neighborhood geographies of REIT- and private equity-owned single-family rentals"
-date = 2023-11-15T00:00:00
+date = 2025-07-01T00:00:00
 draft = false
 
 # Authors.
@@ -18,7 +18,7 @@ authors = ["Eric Seymour","Taylor Shelton","Stephen Sherman","Joshua Akers"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_Journal of Urban Affairs_, forthcoming"
+publication = "_Journal of Urban Affairs_ 47 (6): 1998-2022"
 publication_short = ""
 
 # Abstract and optional shortened version.
