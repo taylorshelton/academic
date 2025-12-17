@@ -1,7 +1,7 @@
 +++
 title = "Rescaling absenteeism: mapping the multi-scalar and relational geographies of absentee housing ownership in Atlanta"
 date = 2026-05-18T00:00:00
-draft = false
+draft = true
 
 # Authors.
 authors = ["Taylor Shelton","Ryan Pardue"]
