@@ -87,7 +87,7 @@ _Capstone:_ The Cost of Green Infrastructure and the Price Residents Pay
 
 Hazel Pepperman  
 M.S. in Water Sciences, Georgia State University, 2025
-B.S. in Environmental Geosciences, Georgia State University, 2024 
+B.S. in Environmental Geosciences, Georgia State University, 2024  
 _Capstone:_ Gauging Gages: Examining USGS Stream Gage Distribution in the 11-County Metro Atlanta Area  
 
 Alec Sparks  
