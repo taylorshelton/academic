@@ -38,11 +38,7 @@ B.S. in Environmental Geosciences, Georgia State University, 2024
 Ryan Pardue  
 Ph.D. in Urban Studies, Georgia State University, 2023-present  
 M.S. in Geography, Georgia State University, 2023  
-B.A. in Geography and Economics, University of Tennessee, 2019  
-
-Hazel Pepperman  
-M.S. in Water Sciences, Georgia State University, 2024-present  
-B.S. in Environmental Geosciences, Georgia State University, 2024  
+B.A. in Geography and Economics, University of Tennessee, 2019   
 
 Sophuth Phon  
 M.S. in Geography, Georgia State University, 2024-present  
@@ -89,6 +85,10 @@ M.S. in Geography, Georgia State University, 2022
 B.S. in Geology, University of Georgia, 2013  
 _Capstone:_ The Cost of Green Infrastructure and the Price Residents Pay 
 
+Hazel Pepperman  
+M.S. in Water Sciences, Georgia State University, 2025
+B.S. in Environmental Geosciences, Georgia State University, 2024 
+_Capstone:_ Gauging Gages: Examining USGS Stream Gage Distribution in the 11-County Metro Atlanta Area  
 
 Alec Sparks  
 M.S. in Geography, Georgia State University, 2025  
