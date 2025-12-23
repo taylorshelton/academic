@@ -53,10 +53,10 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "URL", url = "https://acme-journal.org/index.php/acme/article/view/1941"}]
+# url_custom = [{name = "URL", url = ""}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.14288/acme.v21i4.1941"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
