@@ -1,7 +1,7 @@
 +++
 title = "Rescaling absenteeism: mapping the multi-scalar and relational geographies of absentee housing ownership in Atlanta"
-date = 2026-05-18T00:00:00
-draft = true
+date = 2026-02-04T00:00:00
+draft = false
 
 # Authors.
 authors = ["Taylor Shelton","Ryan Pardue"]
@@ -54,7 +54,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "0.1111/1468-2427.70063"
+doi = "10.1111/1468-2427.70063"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
