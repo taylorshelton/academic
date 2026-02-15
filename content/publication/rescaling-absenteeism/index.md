@@ -18,7 +18,7 @@ authors = ["Taylor Shelton","Ryan Pardue"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "_International Journal of urban and Regional Research_, forthcoming"
+publication = "_International Journal of Urban and Regional Research_, forthcoming"
 publication_short = ""
 
 # Abstract and optional shortened version.
