@@ -15,15 +15,15 @@ weight = 70
 
 +++
 
-__Prospective Students:__
+# __Prospective Students:__
 
-I am always interested in speaking with prospective graduate students for our [master's program in geography at GSU Geosciences](https://cas.gsu.edu/program/geosciences-ms-geography-concentration/). Students working under my supervision generally focus on using GIS methodologies to explore issues in the realm of critical human geography, especially urban social and environmental injustices. I am particularly interested in advising students who want to work on one or more of the following topics:
+# I am always interested in speaking with prospective graduate students for our [master's program in geography at GSU Geosciences](https://cas.gsu.edu/program/geosciences-ms-geography-concentration/). Students working under my supervision generally focus on using GIS methodologies to explore issues in the realm of critical human geography, especially urban social and environmental injustices. I am particularly interested in advising students who want to work on one or more of the following topics:
 
-- Critical and community-based mapping
-- Housing, land and property ownership
-- Urban environmental justice in Atlanta
+# - Critical and community-based mapping
+# - Housing, land and property ownership
+# - Urban environmental justice in Atlanta
 
-If you’re interested in working with me on these (or closely related) topics, please email me with your CV/resume, a brief statement describing your interests, and a sample of your written and/or cartographic work.
+# If you’re interested in working with me on these (or closely related) topics, please email me with your CV/resume, a brief statement describing your interests, and a sample of your written and/or cartographic work.
 
 __Current Students:__  
   
