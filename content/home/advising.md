@@ -41,6 +41,9 @@ M.S. in Geography, Georgia State University, 2022
 B.S. in Forestry, University of Tennessee, 2017  
 _Capstone:_ Modern Extent and Impacts of Atlanta’s Suburban Forest Conversion into Primarily Residential Land Use 
   
+Benen Chancey  
+B.A./B.S. in Geography and Romance Languages, University of Georgia, 2026  
+  
 Lynesia Denson  
 M.S. in Geography, Georgia State University, 2026  
 B.S. in Public Policy, Georgia State University, 2017  
@@ -92,6 +95,9 @@ _Thesis:_ Brave New Detroit: Housing Geographies of Speculative Investment in a 
 Laurel Sparks  
 B.S. in Environmental Geosciences, Georgia State University, 2022
 
+Brandon Wang  
+B.S. in Geography, Environment and Society, Northern Arizona University, 2023-present  
+  
 Mia Wood  
 M.S. in Geography, Georgia State University, 2024  
 B.S. in Environmental Geosciences, Georgia State University, 2023  
