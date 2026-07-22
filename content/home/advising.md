@@ -75,7 +75,7 @@ B.S. in Environmental Geosciences, Georgia State University, 2024
 _Thesis:_ Persistent Patterns of Pollution: Rethinking Environmental Justice Hotspots in Atlanta  
 
 Sophuth Phon  
-M.S. in Geography, Georgia State University, 2025 
+M.S. in Geography, Georgia State University, 2025  
 B.A. in Geography, SUNY Geneseo, 2024  
 _Capstone:_ Unraveling Atlanta’s Urban Forest: Patterns and Drivers of Tree Canopy Decline 2014-2024  
 
